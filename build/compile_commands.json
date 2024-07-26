@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kc1zs4/Code/CodeVscode/NotesWsl/2024ComputerNetwork/GitInVscode/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/GitLearning.dir/main.cpp.o -c /home/kc1zs4/Code/CodeVscode/NotesWsl/2024ComputerNetwork/GitInVscode/main.cpp",
+  "file": "/home/kc1zs4/Code/CodeVscode/NotesWsl/2024ComputerNetwork/GitInVscode/main.cpp",
+  "output": "CMakeFiles/GitLearning.dir/main.cpp.o"
+}
+]
