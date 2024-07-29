@@ -1,3 +1,0 @@
-/home/kc1zs4/Code/CodeVscode/NotesWsl/2024ComputerNetwork/GitInVscode/build/CMakeFiles/GitLearning.dir
-/home/kc1zs4/Code/CodeVscode/NotesWsl/2024ComputerNetwork/GitInVscode/build/CMakeFiles/edit_cache.dir
-/home/kc1zs4/Code/CodeVscode/NotesWsl/2024ComputerNetwork/GitInVscode/build/CMakeFiles/rebuild_cache.dir

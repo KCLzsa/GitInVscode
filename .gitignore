@@ -4,52 +4,6 @@
 # 编译文件不管
 /build/
 
+# https://github.com/github/gitignore/blob/main/C%2B%2B.gitignore中的cpp忽略建议
 
-# # https://github.com/github/gitignore/blob/main/C%2B%2B.gitignore中的cpp忽略建议
-# # Prerequisites
-# *.d
-
-# # Compiled Object files
-# *.slo
-# *.lo
-# *.o
-# *.obj
-
-# # Precompiled Headers
-# *.gch
-# *.pch
-
-# # Compiled Dynamic libraries
-# *.so
-# *.dylib
-# *.dll
-
-# # Fortran module files
-# *.mod
-# *.smod
-
-# # Compiled Static libraries
-# *.lai
-# *.la
-# *.a
-# *.lib
-
-# # Executables
-# *.exe
-# *.out
-# *.app
-
-# # https://github.com/github/gitignore/blob/main/CMake.gitignore是Cmake的
-
-# CMakeLists.txt.user
-# CMakeCache.txt
-# CMakeFiles
-# CMakeScripts
-# Testing
-# Makefile
-# cmake_install.cmake
-# install_manifest.txt
-# compile_commands.json
-# CTestTestfile.cmake
-# _deps
-# CMakeUserPresets.json
+# https://github.com/github/gitignore/blob/main/CMake.gitignore是Cmake的
